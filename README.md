@@ -3,8 +3,8 @@
 </div>
 
 <div align="center">
-  <h2>Olá, eu sou a Letícia! 👋</h2>
-  <p>Atualmente trabalho como AI Developer e sou estudante de Análise e Desenvolvimento de Sistemas na FATEC Mogi Mirim.</p>
+  <h2>Hello, I'm Letícia! 👋</h2>
+  <p>Currently working as an AI/ML Developer and studying Systems Analysis and Development at FATEC.</p>
 </div>
 
 <div align="center">
@@ -14,7 +14,7 @@
 
 
 <div align="center">
-  <h3>Tecnologias</h3>
+  <h3>Technologies</h3>
 
   <p>
     <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
@@ -31,7 +31,7 @@
 
 
 <div align="center">
-  <h3>Conecte-se comigo</h3>
+  <h3>Connect with me</h3>
 
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leticiaaleme@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leticiacristinaleme)
